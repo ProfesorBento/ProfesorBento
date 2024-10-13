@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ronaldo+Rodrigues+Bento;Estou+com+44+anos.;Estou+morando+em+Suzano/+SP.;Estudante+de+programação.;Muito+Prazer!+:%29)](https://git.io/typing-svg)
 
 
-- 💻  Atualmente estou estudando  Python, HTML-CSS, JavaSript e PHP
+- 💻  Atualmente estou estudando  Python, HTML-CSS, JavaSript, Ruby e Lua.
 - 🎮 Estou muito interessado em desenvolver jogos
 - 📖  Interesse em  dicas de livros e  outros materiais de apoio 
 - 👍  Dicas de sites e vídeos  de cursos  gratuitos 
